@@ -4,37 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f5937c413a4f21d14c5ddd66bd83974b",
+    "content-hash": "ea00913834c3f7140bc966ba081d2b38",
     "packages": [
-        {
-            "name": "john-mc-dogfood/canonical-logs",
-            "version": "v1.0.1",
-            "source": {
-                "type": "git",
-                "url": "git@github.com:acidic-clam/canonical-logs.git",
-                "reference": "e7ec108d186be1858eb0928c3a00f11f3c09b95e"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/acidic-clam/canonical-logs/zipball/e7ec108d186be1858eb0928c3a00f11f3c09b95e",
-                "reference": "e7ec108d186be1858eb0928c3a00f11f3c09b95e",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=8.1"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "CanonicalLogs\\": "src/"
-                }
-            },
-            "license": [
-                "MIT"
-            ],
-            "description": "A simple utility library for canonical log line logging",
-            "time": "2026-03-03T01:20:13+00:00"
-        },
         {
             "name": "psr/cache",
             "version": "3.0.0",
